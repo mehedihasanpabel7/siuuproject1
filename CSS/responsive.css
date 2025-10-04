@@ -1,0 +1,19 @@
+@media (min-width: 320px) and (max-width:576px) {
+    .Ronaldo{
+    display: block !important;
+}
+ul{
+            display: none !important;
+}
+header {
+    background: #EEEDDE;
+    padding: 20px !important;
+}
+.bar_icon{
+    display: block !important;
+    position: absolute;
+    top: 30px;
+    right: 20px;
+}
+}
+
